@@ -82,7 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   expandedHeight: 50,
                   pinned: true,
                   flexibleSpace: FlexibleSpaceBar(
-                    title: Text("title"),
+                    title: Text("Hello"),
                   ),
                 ),
               ),
